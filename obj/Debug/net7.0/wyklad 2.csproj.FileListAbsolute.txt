@@ -1,0 +1,15 @@
+/Users/jakubkubicki/Desktop/PZ2/wyklad 2/bin/Debug/net7.0/wyklad 2
+/Users/jakubkubicki/Desktop/PZ2/wyklad 2/bin/Debug/net7.0/wyklad 2.deps.json
+/Users/jakubkubicki/Desktop/PZ2/wyklad 2/bin/Debug/net7.0/wyklad 2.runtimeconfig.json
+/Users/jakubkubicki/Desktop/PZ2/wyklad 2/bin/Debug/net7.0/wyklad 2.dll
+/Users/jakubkubicki/Desktop/PZ2/wyklad 2/bin/Debug/net7.0/wyklad 2.pdb
+/Users/jakubkubicki/Desktop/PZ2/wyklad 2/obj/Debug/net7.0/wyklad 2.csproj.AssemblyReference.cache
+/Users/jakubkubicki/Desktop/PZ2/wyklad 2/obj/Debug/net7.0/wyklad 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubkubicki/Desktop/PZ2/wyklad 2/obj/Debug/net7.0/wyklad 2.AssemblyInfoInputs.cache
+/Users/jakubkubicki/Desktop/PZ2/wyklad 2/obj/Debug/net7.0/wyklad 2.AssemblyInfo.cs
+/Users/jakubkubicki/Desktop/PZ2/wyklad 2/obj/Debug/net7.0/wyklad 2.csproj.CoreCompileInputs.cache
+/Users/jakubkubicki/Desktop/PZ2/wyklad 2/obj/Debug/net7.0/wyklad 2.dll
+/Users/jakubkubicki/Desktop/PZ2/wyklad 2/obj/Debug/net7.0/refint/wyklad 2.dll
+/Users/jakubkubicki/Desktop/PZ2/wyklad 2/obj/Debug/net7.0/wyklad 2.pdb
+/Users/jakubkubicki/Desktop/PZ2/wyklad 2/obj/Debug/net7.0/wyklad 2.genruntimeconfig.cache
+/Users/jakubkubicki/Desktop/PZ2/wyklad 2/obj/Debug/net7.0/ref/wyklad 2.dll
